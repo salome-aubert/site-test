@@ -1,6 +1,9 @@
 ---
 item:
 - image: images/portfolio/item-1.png
+  project_url: project-1
+  category: ''
+- image: images/portfolio/item-1.png
   project_url: http://examplesite.com
   category: design
 - image: images/portfolio/item-2.png
